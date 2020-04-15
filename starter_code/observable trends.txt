@@ -1,0 +1,11 @@
+#observable trends based on the data.
+
+1. Temperature was higher on latitude 20 with in the 100 degrees Ferinhite. However tempretured has the ability to drop as well to the high 50's range.
+
+2. Based on the given dataset, we see a number of cities that have humidity close to a maximum 100 percent. None of the cities show humidity above a 100 percent.
+
+3. In the nothern hemisphere, as you move away from the equator the temperature decreases
+
+4. In the southern hemisphere, as you move away from the equator the temperature decreases
+
+5. cities around latitude 15-20 seems to have a a nice atmosphere.
